@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\neogfk\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\neogfk\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Oneirophobia.412342492.00" t="ExcludeRecursive" />
+    <e p="D:\cours\Projet de fin d'année\Oneirophobia" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="EnnemyBullet.cs" t="Include" />
+          <e p="IAManager.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Procedural.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Oneirophobia.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

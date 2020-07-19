@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 025ef6536fa18934690ba4c08f208ec6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3358121520999834138
+    second: Sigmund.1_0
+  - first:
+      213: 713305079543012272
+    second: Sigmund.1_1
+  - first:
+      213: -7894851076716654001
+    second: Sigmund.1_2
+  - first:
+      213: 2084041575332672214
+    second: Sigmund.1_3
+  - first:
+      213: -1533784799005981211
+    second: Sigmund.1_4
+  - first:
+      213: 8885837652595586008
+    second: Sigmund.1_5
+  - first:
+      213: 1286766794818867797
+    second: Sigmund.1_6
+  - first:
+      213: 1343022604495499682
+    second: Sigmund.1_7
+  - first:
+      213: 2946805121934507233
+    second: Sigmund.1_8
+  - first:
+      213: 3575881704499840866
+    second: Sigmund.1_9
+  - first:
+      213: -9158691084412992814
+    second: Sigmund.1_10
+  - first:
+      213: -2269341944190460687
+    second: Sigmund.1_11
+  - first:
+      213: -1460142504922719361
+    second: Sigmund.1_12
+  - first:
+      213: 7699137151767163876
+    second: Sigmund.1_13
+  - first:
+      213: 2737797886795399246
+    second: Sigmund.1_14
+  - first:
+      213: -445660291595333759
+    second: Sigmund.1_15
+  - first:
+      213: 3701168805548014818
+    second: Sigmund.1_16
+  - first:
+      213: -2979161799098464272
+    second: Sigmund.1_17
+  - first:
+      213: -6427350976817574568
+    second: Sigmund.1_18
+  - first:
+      213: -8050201852694203871
+    second: Sigmund.1_19
+  - first:
+      213: 4498323657598416152
+    second: Sigmund.1_20
+  - first:
+      213: -3770341398832521074
+    second: Sigmund.1_21
+  - first:
+      213: -1902181066931434220
+    second: Sigmund.1_22
+  - first:
+      213: 6527628326045250602
+    second: Sigmund.1_23
+  - first:
+      213: 1304047124741560310
+    second: Sigmund.1_24
+  - first:
+      213: 7378981271752835963
+    second: Sigmund.1_25
+  - first:
+      213: -4917708725877010597
+    second: Sigmund.1_26
+  - first:
+      213: -6781817014751178471
+    second: Sigmund.1_27
+  - first:
+      213: -483462580674661911
+    second: Sigmund.1_28
+  - first:
+      213: 7960331185361759650
+    second: Sigmund.1_29
+  - first:
+      213: -3015352103440088002
+    second: Sigmund.1_30
+  - first:
+      213: 1547349698296844386
+    second: Sigmund.1_31
+  - first:
+      213: -8299620169760512910
+    second: Sigmund.1_32
+  - first:
+      213: 472147601177847678
+    second: Sigmund.1_33
+  - first:
+      213: -2070850714393407787
+    second: Sigmund.1_34
+  - first:
+      213: -6083257452133391671
+    second: Sigmund.1_35
+  - first:
+      213: 5420975588183732883
+    second: Sigmund.1_36
+  - first:
+      213: 2393718912385651223
+    second: Sigmund.1_37
+  - first:
+      213: -3502663983516464909
+    second: Sigmund.1_38
+  - first:
+      213: -1185291532877246892
+    second: Sigmund.1_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sigmund.1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2058
+        width: 216
+        height: 258
+      alignment: 9
+      pivot: {x: 0.52790487, y: 0.032757428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edd53cc44e8561d0800000000000000
+      internalID: -3358121520999834138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2063
+        width: 217
+        height: 259
+      alignment: 9
+      pivot: {x: 0.47222394, y: 0.03456145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb94aac03b26e900800000000000000
+      internalID: 713305079543012272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_2
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2053
+        width: 248
+        height: 263
+      alignment: 9
+      pivot: {x: 0.5486086, y: 0.049280204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4291b146cadf6290800000000000000
+      internalID: -7894851076716654001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_3
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1733
+        width: 362
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d279d265c00cec10800000000000000
+      internalID: 2084041575332672214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_4
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1728
+        width: 363
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ca550ad6e6bae0800000000000000
+      internalID: -1533784799005981211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_5
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1742
+        width: 660
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d330ce0446d05b70800000000000000
+      internalID: 8885837652595586008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1742
+        width: 208
+        height: 134
+      alignment: 9
+      pivot: {x: 0.094308086, y: 0.78487843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55252f115938bd110800000000000000
+      internalID: 1286766794818867797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1729
+        width: 208
+        height: 134
+      alignment: 9
+      pivot: {x: 0.9346704, y: 0.81486577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1364271ff53a210800000000000000
+      internalID: 1343022604495499682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_8
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1755
+        width: 132
+        height: 108
+      alignment: 9
+      pivot: {x: 0.14992268, y: 0.6674285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec353345a725e820800000000000000
+      internalID: 2946805121934507233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1499
+        width: 141
+        height: 106
+      alignment: 9
+      pivot: {x: 0.115270734, y: 0.7464047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2670883e67510a130800000000000000
+      internalID: 3575881704499840866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1499
+        width: 140
+        height: 108
+      alignment: 9
+      pivot: {x: 0.8013716, y: 0.7976504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2c60acbfac5e080800000000000000
+      internalID: -9158691084412992814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_11
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1448
+        width: 240
+        height: 221
+      alignment: 9
+      pivot: {x: 0.49162853, y: 0.054533947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc12a6768da180e0800000000000000
+      internalID: -2269341944190460687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_12
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1011
+        width: 660
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd1a0c0288cbbe0800000000000000
+      internalID: -1460142504922719361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_13
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 1025
+        width: 663
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e33810a274d8da60800000000000000
+      internalID: 7699137151767163876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1097
+        width: 578
+        height: 232
+      alignment: 9
+      pivot: {x: 0.17140964, y: 0.8318818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40414d2cac9ef520800000000000000
+      internalID: 2737797886795399246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1109
+        width: 580
+        height: 231
+      alignment: 9
+      pivot: {x: 0.78320605, y: 0.83331853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f86f47352b0d9f0800000000000000
+      internalID: -445660291595333759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_16
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1094
+        width: 322
+        height: 326
+      alignment: 9
+      pivot: {x: 0.22988455, y: 0.9002015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec32744b613d5330800000000000000
+      internalID: 3701168805548014818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 767
+        width: 580
+        height: 230
+      alignment: 9
+      pivot: {x: 0.18401155, y: 0.9186789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78254c024e7a6d0800000000000000
+      internalID: -2979161799098464272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_18
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 775
+        width: 579
+        height: 232
+      alignment: 9
+      pivot: {x: 0.8031217, y: 0.9083749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d470417567dc6a0800000000000000
+      internalID: -6427350976817574568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_19
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 707
+        width: 322
+        height: 325
+      alignment: 9
+      pivot: {x: 0.22506088, y: 0.891875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12278f71110f74090800000000000000
+      internalID: -8050201852694203871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_20
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 927
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815b3ef88814d6e30800000000000000
+      internalID: 4498323657598416152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_21
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 355
+        width: 662
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8063a0597e0dabc0800000000000000
+      internalID: -3770341398832521074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_22
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 895
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d0417d5681a95e0800000000000000
+      internalID: -1902181066931434220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_23
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 898
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2474bfa06bc69a50800000000000000
+      internalID: 6527628326045250602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_24
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 878
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7179863f7e81210800000000000000
+      internalID: 1304047124741560310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_25
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 867
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7386130f58676660800000000000000
+      internalID: 7378981271752835963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_26
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 754
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f034d08f9c0cbb0800000000000000
+      internalID: -4917708725877010597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_27
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 723
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9115e005b5522e1a0800000000000000
+      internalID: -6781817014751178471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_28
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 725
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e171b828556a49f0800000000000000
+      internalID: -483462580674661911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_29
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 705
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ada3f59907c87e60800000000000000
+      internalID: 7960331185361759650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_30
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 695
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e340ab9ec315726d0800000000000000
+      internalID: -3015352103440088002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 334
+        width: 253
+        height: 327
+      alignment: 9
+      pivot: {x: 0.542973, y: 0.4050053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2609a463a5a497510800000000000000
+      internalID: 1547349698296844386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_32
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 341
+        width: 252
+        height: 328
+      alignment: 9
+      pivot: {x: 0.4383666, y: 0.4005597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274e1cacd63d1dc80800000000000000
+      internalID: -8299620169760512910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_33
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 0
+        width: 371
+        height: 613
+      alignment: 9
+      pivot: {x: 0.48616362, y: 0.6758488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7722c1edb76d8600800000000000000
+      internalID: 472147601177847678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_34
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 368
+        width: 180
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de87b14f3cd243e0800000000000000
+      internalID: -2070850714393407787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_35
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 7
+        width: 240
+        height: 208
+      alignment: 9
+      pivot: {x: 0.42892328, y: 0.8280456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c26758e39de39ba0800000000000000
+      internalID: -6083257452133391671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_36
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 6
+        width: 239
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5713738, y: 0.8381364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39271cd639c2b3b40800000000000000
+      internalID: 5420975588183732883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_37
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 11
+        width: 240
+        height: 277
+      alignment: 9
+      pivot: {x: 0.56092227, y: 0.6671529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71291e81ba2383120800000000000000
+      internalID: 2393718912385651223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_38
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 9
+        width: 134
+        height: 199
+      alignment: 9
+      pivot: {x: 0.8637185, y: 0.8918652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f842f63aa9046fc0800000000000000
+      internalID: -3502663983516464909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigmund.1_39
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 14
+        width: 135
+        height: 199
+      alignment: 9
+      pivot: {x: 0.1389757, y: 0.9163573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ec29b71affc8fe0800000000000000
+      internalID: -1185291532877246892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

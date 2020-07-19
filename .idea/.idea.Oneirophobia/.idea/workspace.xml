@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="909aa1b1-b556-4595-b76e-9d10fa686e88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IaManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Procedural.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnnemyBullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyBullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Procedural.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnnemyBullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IaManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1claxOKF6l3SWK2LddvECDkYALJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="909aa1b1-b556-4595-b76e-9d10fa686e88" name="Default Changelist" comment="" />
+      <created>1591105889152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591105889152</updated>
+      <workItem from="1591105914465" duration="6028000" />
+      <workItem from="1591188060123" duration="5359000" />
+      <workItem from="1591367134297" duration="1271000" />
+      <workItem from="1591874671388" duration="599000" />
+      <workItem from="1591964177862" duration="2756000" />
+      <workItem from="1592232913117" duration="3800000" />
+      <workItem from="1592403196560" duration="3788000" />
+      <workItem from="1592479115012" duration="7013000" />
+      <workItem from="1592570274166" duration="2840000" />
+      <workItem from="1592916216625" duration="625000" />
+      <workItem from="1592918226329" duration="6242000" />
+      <workItem from="1593091298697" duration="6098000" />
+      <workItem from="1593173331506" duration="3896000" />
+      <workItem from="1593440908732" duration="5460000" />
+      <workItem from="1593523051230" duration="599000" />
+      <workItem from="1593593395609" duration="1351000" />
+      <workItem from="1593765344898" duration="5233000" />
+      <workItem from="1593864321467" duration="4581000" />
+      <workItem from="1593965675450" duration="1187000" />
+      <workItem from="1594281564760" duration="2109000" />
+      <workItem from="1594302947726" duration="5815000" />
+      <workItem from="1594547467321" duration="1412000" />
+      <workItem from="1594564862912" duration="1094000" />
+      <workItem from="1594724444518" duration="6390000" />
+      <workItem from="1594813438302" duration="4531000" />
+      <workItem from="1594897734109" duration="6054000" />
+      <workItem from="1594985832689" duration="1960000" />
+      <workItem from="1595086332356" duration="5234000" />
+      <workItem from="1595158062562" duration="3909000" />
+      <workItem from="1595172944292" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+</project>

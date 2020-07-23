@@ -11,6 +11,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IaManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Procedural.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnnemyBullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -18,6 +19,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyBullet.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Procedural.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spider.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnnemyBullet.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IaManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
@@ -101,6 +103,11 @@
       <workItem from="1595086332356" duration="5234000" />
       <workItem from="1595158062562" duration="3909000" />
       <workItem from="1595172944292" duration="599000" />
+      <workItem from="1595249348220" duration="2527000" />
+      <workItem from="1595332842558" duration="4141000" />
+      <workItem from="1595412575140" duration="11217000" />
+      <workItem from="1595506439502" duration="15868000" />
+      <workItem from="1595543574009" duration="1336000" />
     </task>
     <servers />
   </component>

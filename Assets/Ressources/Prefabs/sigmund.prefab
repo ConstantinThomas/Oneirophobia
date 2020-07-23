@@ -339,10 +339,11 @@ MonoBehaviour:
   speed: 5
   ammo: 100
   health: 15
+  Sight: {fileID: 8991606739096293149, guid: d5cdce7b13958cf439e4843faf31f1a8, type: 3}
   PlayerAnimator: {fileID: 6970793376186373401}
-  rb: {fileID: 0}
+  rb: {fileID: 1003187136703113545}
   sr: {fileID: 6970793376186373380}
-  trSight: {fileID: 0}
+  trSight: {fileID: 8991606739096293151, guid: d5cdce7b13958cf439e4843faf31f1a8, type: 3}
   trP: {fileID: 6970793376186373381}
   ShootPoint: {fileID: 1003187136203171134}
 --- !u!50 &1003187136703113545
@@ -365,7 +366,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!1 &6970793376374317966
 GameObject:
   m_ObjectHideFlags: 0

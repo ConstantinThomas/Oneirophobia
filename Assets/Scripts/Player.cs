@@ -14,19 +14,26 @@ public class Player : MonoBehaviour
     private bool jumping;
     private float timer;
     private float fireRate;
+    float jumpTime;
     public int ammo;
     public float health;
     [Header("references")] 
+    private GameObject ennemy;
+    public GameObject Sight;
+    public LineRenderer lr;
+    private Transform trSight;
     public Animator PlayerAnimator;
     private Vector3 worldPosition;
     public Rigidbody2D rb;
     [SerializeField] private SpriteRenderer sr;
-    [SerializeField] Transform trSight;
     [SerializeField] Transform trP;
     [SerializeField] Transform ShootPoint;
 
     void Start()
     {
+        ennemy = GameObject.FindWithTag("ennemy");
+        GameObject instantiatedSight = Instantiate(Sight);
+        trSight = instantiatedSight.transform;
         Physics2D.gravity = new Vector3(0, 0, -9.8f);
         health = 15;
         speed = 5;
@@ -37,16 +44,14 @@ public class Player : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
-        Sight();
+        Aim();
         Inputs();
         Move();
+        LineRenderer();
         if (Input.GetMouseButton(0) && timer >= fireRate)
         {
             PlayerAnimator.SetBool("shoot", true);
-            if (ammo > 0)
-            {
-                Shoot();
-            }
+            Shoot();
         }
         else
         {
@@ -67,7 +72,27 @@ public class Player : MonoBehaviour
         //Jump();
     }
 
-    void Sight()
+    void LineRenderer()
+    {
+        lr.SetPosition(0, transform.position);
+        lr.SetPosition(1, trSight.position);
+        if (Input.GetMouseButton(0))
+        {
+            lr.enabled = true;
+        }
+    }
+
+    void Shoot()
+    {
+        Debug.Log("ennemy take dmg");
+        ennemy.GetComponent<IaManager>().ennemyHealth -= 1;
+        if (timer > fireRate)
+        {
+            timer = 0;
+        }
+    }
+
+    void Aim()
     {
         Vector3 mousePos = Input.mousePosition;
         mousePos.z = Camera.main.nearClipPlane;
@@ -100,7 +125,7 @@ public class Player : MonoBehaviour
     
     /*private void Jump()
     {
-        if (!jumpButtonPressed || jumping) return;
+        if (!Input.GetKey("space") || jumping) return;
         speed = 3;
         StartCoroutine(JumpRoutine());
     }
@@ -110,14 +135,12 @@ public class Player : MonoBehaviour
         rb.gravityScale = 0;
         rb.velocity = new Vector3(0, 0, 1) * 5;
         float timer = 0f;
-        while (jumpButtonPressed && timer < jumpTime)
+        while (Input.GetKey("space") && timer < jumpTime)
         {
             timer += Time.deltaTime;
             yield return null;
         }
         jumping = true;
-        walled = false;
-        grounded = false;
         rb.gravityScale = 1;
     }*/
 
@@ -127,32 +150,47 @@ public class Player : MonoBehaviour
         yield break;
     }
 
-    IEnumerator BounceBack()
+    float CheckCollisionOnSide(Collision2D collision)
     {
-        //if ()
-        yield break;
-    }
-
-    void Shoot()
-    {
-        
-        //envoyer les degats au script de l'ennemi
-        if (timer > fireRate)
+        if (collision.contacts.Length > 0)
         {
-            timer = 0;
+            Vector3 hit = collision.contacts[0].normal;
+            var angle = Vector3.Angle(hit, Vector3.up);
+            return angle;
         }
+        return 0f;
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("puddle"))
+        if (other.gameObject.CompareTag("puddle"))
         {
             canHeal = true;
-            Destroy(other);
+            Destroy(other.gameObject);
         }
-        if (other.CompareTag("tantacle"))
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        var angle = CheckCollisionOnSide(collision);
+        if (collision.gameObject.CompareTag("tantacle"))
         {
-            StartCoroutine(BounceBack());
+            if (Mathf.Approximately(angle, 0f))
+            {
+                transform.position += new Vector3(0, 2, 0);
+            }
+            else if (Mathf.Approximately(angle, 90))
+            {
+                transform.position += new Vector3(2, 0, 0);
+            }
+            else if (Mathf.Approximately(angle, 180))
+            {
+                transform.position += new Vector3(0, -2, 0);
+            }
+            else if (Mathf.Approximately(angle, 270))
+            {
+                transform.position += new Vector3(-2, 0, 0);
+            }
         }
     }
 
